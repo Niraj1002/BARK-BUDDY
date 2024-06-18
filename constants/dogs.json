@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "breed": "Labrador Retriever",
+    "age": "2 years",
+    "gender": "Male",
+    "color": "Golden",
+    "location": "New York",
+    "image": "buddy.jpg",
+    "description": "Buddy is a friendly and energetic Labrador Retriever looking for an active family to join.",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Daisy",
+    "breed": "Golden Retriever",
+    "age": "1 year",
+    "gender": "Female",
+    "color": "Light Golden",
+    "location": "Los Angeles",
+    "image": "daisy.jpg",
+    "description": "Daisy is a loving and playful Golden Retriever who enjoys cuddles and long walks.",
+    "price": 250
+  }
+]
